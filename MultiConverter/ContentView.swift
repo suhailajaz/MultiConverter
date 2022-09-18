@@ -114,7 +114,7 @@ struct ContentView: View {
                     Text("Lenght in \(outputUnit) ")
                 }
             
-            }.navigationTitle("Converter")
+            }.navigationTitle("Multi Converter")
                 .navigationBarTitleDisplayMode(.inline)
   }
  }
